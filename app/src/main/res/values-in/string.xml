@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daftar Ponpes</string>
+
+    <!-- Menu Nav-->
+    <string name="action_language">Ganti Bahasa</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_exit">Exit</string>
+    <string name="textView_Menu_Nama">Yusuf Aryo W</string>
+    <string name="textView_Menu_NIM">34 2018 0029</string>
+    <string name="textView_Menu_Email">aryoyusuf313@gmail.com</string>
+    <string name="circleImageView_Menu_Foto">Foto</string>
+
+    <!-- Main Act -->
+    <string name="imageView_Main_Banner">Banner</string>
+
+    <!-- Temp RecycleView -->
+    <string name="circleImageView_Main_temp_Logo">Temp Icon</string>
+    <string name="textView_Main_temp_Prov">Provinsi</string>
+    <string name="textView_Main_temp_Nama">Nama Pondok</string>
+
+    <!-- Detail Act -->
+    <string name="circleImageView_Detail_Logo">Detail Logo</string>
+    <string name="textView_Detail_Gambar_Pondok">Ponpes</string>
+    <string name="textView_Detail_Rincian_Prov">Rincian</string>
+    <string name="textView_Detail_Desc_Prov">Deskripsi</string>
+    <string name="Desc">XXXXXXX</string>
+    <string name="Nama">000000</string>
+
+    <!-- String Java-->
+    <string name="confirm">konfirmasi</string>
+
+    <!-- jatim -->
+    <string name="jatim">
+        Jawa Timur adalah sebuah provinsi di bagian timur Pulau Jawa, Indonesia.
+        Ibu kota Jawa Timur ialah kota Surabaya. Luas wilayahnya yakni 47.803,49 km²,
+        dengan jumlah penduduk sebanyak 40.665.696 jiwa dan kepadatan penduduk 851 jiwa/km².</string>
+    <string name="jatimnama1">
+        Pondok Pesantren Al-Amin adalah Pondok Pesantren yang berbentuk lembaga pendidikan formal
+        yang berorientasi pada keunggulan dan pengkaderan dengan visi Ilmu amaliyah,
+        Amal Ilmiyah dan Akhlaqul Karimah, berdasarkan ajaran Islam AhlusSunnah Wal Jama\'ah.</string>
+    <string name="jatimnama2">
+        Pondok Pesantren Al Falah dimulai di Madrasah Islamiyah Salafiyah Riyadlotul Uqul (MISRIU)
+        dengan dua tingkatan, Ibtidiyah dan Tsanawiyah. Pada tingkat Ibtida\'iyah yang ditempuh selama 3 tahun,
+        lebih diprioritaskan dalam pembinaan akhlaq santri (moralitas dan mentalitas), pengembangan wawasan sosial anak,</string>
+    <string name="jatimnama3">
+        Podok Pesantren Gontor berdiri pada 10 April 1926 di Ponorogo, Jawa Timur.
+        Pondok ini didirikan oleh tiga bersaudara putra KH Santoso Anom Besari yaitu KH Ahmad Sahal,
+        KH Zainudin Fananie dan KH Imam Zarkasy yang kemudian dikenal dengan istilah Trimurti. </string>
+    <string name="jatimnama4">
+        Pesantren Lirboyo berdiri pada 1910, tepatnya di Kecamatan Mojoroto, Kota Kediri, Jawa Timur.
+        Kiai Sholeh yang berasal dari Desa Banjarmelati, memprakarsai berdirinya pesantren ini yang kemudian
+        dilanjutkan oleh salah satu menantunya KH Abdul Karim. </string>
+
+    <!-- jateng -->
+    <string name="jateng">
+        Jawa Tengah adalah sebuah provinsi Indonesia yang terletak di bagian tengah Pulau Jawa.
+        Ibu kotanya adalah Semarang. Provinsi ini berbatasan dengan Provinsi Jawa Barat di sebelah barat,
+        Samudra Hindia dan Daerah Istimewa Yogyakarta di sebelah selatan, Jawa Timur di sebelah timur, dan Laut Jawa di sebelah utara</string>
+    <string name="jatengnama1">
+        Pondok Pesantren As-Salafy Al-Asror memiliki misi mencetak kader Muslim beriman, bertakwa, serta memiliki akhlak terpuji
+        yang menguasai ilmu pengetahuan dan teknologi. Pondok pesantren  As-Salafy Al-Asror merupakan salah satu pondok besar di Semarang.
+        Pondok ini berdiri kokoh di Jl. Kauman No. 1 003/002, Patemon, Gunung Pati, Kota Semarang Jawa Tengah.</string>
+    <string name="jatengnama2">
+        Pondok Pesantren  Bugen Al-Itiqon ini mengajarkan kitab-kitab kuning dan tasawuf naqsabandiyyah.
+        Pondok pesantren ini juga memiliki unit lembaga pendidikan yang cukup komplit. Diantara lain adalah Madrasah Diniyyah Salafiyyah,
+        Madrasah Diniyyah Al-Wasathoniyyah, Ma\'had Tafsir, dan masih banyak lagi.</string>
+    <string name="jatengnama3">
+        Pondok Pesantren Salafiyyah Al-Munawir merupakan salah satu lembaga agama yang cukup besar.
+        Pondok ini berdiri kokoh di tanah wakaf seluas 1.500 m2. Pondok yang didikan oleh KH. Abdullah Munawir
+        ini terletak di Jl. KH. Munawir 13, Gemah Raya, Pedurungan Lor, Kecamatan Pedurungan, Kota Semarang, Jawa Tengah.</string>
+    <string name="jatengnama4">
+        Pondok Pesantren Askhabul Kahfi merupakan lembaga Islam yang memiliki perpaduan antara sistem salaf (klasik) dan modern.
+        Pondok ini berdiri kokoh di Kecamatan Mijen Kota Semarang. Alamat lengkapnya adalah Jl. Raya Cangkring-Gunung Pati, Polaman,
+        Kecamatan Mijen, Kota Semarang, Jawa Tengah.Pondok Pesantren Askhabul Kahfi berdiri pada tahun 2009 dan memiliki santri aktif kurang lebih 3.000
+        orang baik putra maupun putri. Semua santri tersebut berasal dari berbagai daerah/kota di Indonesia baik di Pulau Jawa maupun dari luar jawa.</string>
+
+    <!-- DIY -->
+    <string name="diy">
+        Daerah Istimewa Yogyakarta adalah Daerah Istimewa setingkat provinsi di Indonesia yang merupakan
+        peleburan Negara Kesultanan Yogyakarta dan Negara Kadipaten Paku Alaman. Daerah Istimewa Yogyakarta
+        terletak di bagian selatan Pulau Jawa, dan berbatasan dengan Provinsi Jawa Tengah dan Samudera Hindia.</string>
+    <string name="diynama1">
+        Pondok pesantren di Jogja ini memiliki nama asli Al Munawwir. Pesantren ini pun salah satu pondok
+        yang bisa dibilang sudah sesepuh di Indonesia.Tak heran, banyak alumni dari pondok pesantren
+        di Jogja ini yang akhirnya mendirikan berbagai pesantren terbaik lainnya di berbagai belahan Indonesia.</string>
+    <string name="diynama2">
+        Salah satu pondok pesantren di Jogja ini berlokasi di Jalan Cuwiri no. 123, Jogokariyan. Pondok Pesantren Pangeran Diponegoro
+        merupakan pondok pesantren salafiyah yang dipadukan dengan pendidikan formal.Selain menjadi tempat santri
+        untuk anak-anak usia sekolah dari SMP dan SMA, pondok pesantren di Jogja ini juga menyediakan tempat untuk santri yang telah berstatus mahasiswa alias menempuh perguruan tinggi.</string>
+    <string name="diynama3">
+        Pondok pesantren Al Barokah sudah memiliki fasilitas untuk menggabungkan pendidikan formal dan tentu saja
+        mempelajari ilmu agama.Pondok pesantren ini memiliki alamat di Blunyahrejo, Tegalrejo. Dipimpin oleh
+        KH. Rosim Al Fatih, Lc., Pondok Pesantren Al Barokah kini memiliki 100 santri yang terdiri dari santri putra dan juga santri putri.</string>
+    <string name="diynama4">
+        Pesantren ini terletak di Jalan Veteran UH, Umbulharjo, Pondok Pesantren Al Khairaat merupakan salah satu
+        pesantren yang cukup terkenal di Kota Yogyakarta.Sama seperti pesantren yang lainnya, selain mendalami
+        ilmu agama, Si Kecil juga akan memiliki jenjang pendidikan mulai dari SD, SMP, SMA hingga perguruan tinggi.</string>
+
+    <!-- jabar -->
+    <string name="jabar">
+        Provinsi Jawa Barat adalah sebuah provinsi di Indonesia, ibu kotanya berada di kota Bandung.
+        Pada tahun 2020 penduduk provinsi Jawa Barat berjumlah 48.274.162 jiwa, dengan kepadatan 1.365 jiwa/km².</string>
+    <string name="jabarnama1">
+        Pondok pesantren ini terletak di Jl. Raya Cipacing No. 22 Jatinagor, Sumedang, Jawa Barat.
+        Salah satu yang menarik dari pondok ini adalah adanya program akselerasi pada jenjang SMP.Selain itu,
+        pondok pesantren di Sumedang ini juga membuka program beasiswa. Ponpes ini menyediakan empat jenjang pendidikan yaitu TK Munggangg, SD Al Maksoem, SMP Al Maksoem, dan SMA Al Maksome</string>
+    <string name="jabarnama2">
+        Pondok pesantren Al Ikhlas berada di Puhun, RT 14 RW 04, Kuningan, Kec. Kuningan, Kabupaten Kuningan, Jawa Barat.
+        Pondok pesantren ini menerapkan sistem pembelajaran modern dengan pola mu’alimin sertra pendidikan tinggi.
+        Kurikulum yang diterapkan dalam pondok pesantren di Kabupaten Kuningan ini berupa KMI Pondok Modern Darussalam Gontor dan Kurikulum yang dikembangkan sendiri oleh PP Modern Al Ikhlas.</string>
+    <string name="jabarnama3">
+        Pondok pesantren ini terletak di daerah Sukabumi, Jawa Barat. Berdiri pada tahun 2012 dan diresmikan pada tahun 2014,
+        saat ini jenjang pendidikan yang disediakan oleh pondok pesantren ini sudah terakreditasi A.
+        Selain penggunaan bahasa Arab, pondok pesantren di Sukabumi ini juga mengajarkan para santri belajar bahasa Inggris dan Jepang, bahkan terdpapat ekstrakuurikuler khusus debat bahasa Jepang.</string>
+    <string name="jabarnama4">
+        Pondok pesantren di Jawa Barat Pertama yang akan dibahas adalah PP Darul Muttaqien yang beralamat di Jl. Jkt - Bogor No.KM. 41,
+        Jabon Mekar, Kec. Parung, Bogor, Jawa Barat. Pondok pesantren ini sudah berdiri sejak tahun 1988.Jenjang pendidikan yang tersedia berupa
+        TMI, SMP Islam Terpadu, SD Islam Terpadu, Raudhatul Athfal, Taman Pendidikan Quran, serta Diniyah Takmiliyah.</string>
+
+    <!-- DKI -->
+    <string name="dki">
+        Jakarta, atau secara resmi bernama Daerah Khusus Ibukota Jakarta adalah ibu kota negara dan kota terbesar di Indonesia.
+        Jakarta merupakan satu-satunya kota di Indonesia yang memiliki status setingkat provinsi. Jakarta terletak di pesisir bagian barat laut Pulau Jawa.</string>
+    <string name="dkinama1">
+        Pondok pesantren ini berawal dari Majelis Ta\'lim yang tersebar di wilayah Jakarta Barat dan sekitarnya.
+        Akhirnya, diresmikan sebagai lembaga pendidikan dengan nama Pondok Pesantren Al-Isyraq pada 6 Desember 2009.
+        Pesantren Al-Isyraq menjadi pilihan pendidikan bagi anak-anak yang bagus karena pembelajarannya disesuaikan dengan ajaran Islam.</string>
+    <string name="dkinama2">
+        Pondok pesantren ini berada di Jl. Panjang No. 6C, Kedoya Utara, Kebon Jeruk, Jakarta Barat.
+        Dengan tujuan mendidik anak-anak yang memiliki akhlaqul karimah, menguasai ilmu pengetahuan umum dan agama,
+        serta mampu berbahasa Arab dan Inggris.Menyelenggarakan program pendidikan mulai tingkat dini, yaitu MD, MI, MTs, SMP, MA, dan SMA yang telah terakreditasi A.</string>
+    <string name="dkinama3">
+        Pondok Pesantren Daarul Rahman menggunakan sistem pendidikan terpadu, yaitu perpaduan antara sistem yang ada di
+        Pondok Pesantren Modern Gontor Ponorogo dengan 2 bahasa sebagai ciri khasnya dan sistem Pondok Pesantren Salafiyah yang
+        mengajarkan kitab-kitab kuning.Saat ini, Daarul Rahman telah memiliki 3 cabang pondok pesantren.</string>
+    <string name="dkinama4">
+        Pondok Pesantren Luhur Al-Tsaqafah merupakan salah satu lembaga pendidikan akademi yang berbasis pengajaran religi di Jakarta.
+        Menyediakan pilihan pendidikan Madrasah Tsanawiyah dan Madrasah Aliyah atau yang setara dengan SMP hingga SMA. Dengan fasilitas pendidikan,
+        seperti gedung sekolah, masjid, asrama, dan lain-lain yang mumpuni sebagai pendukung kegiatan belajar anak.</string>
+
+    <!-- Banten -->
+    <string name="banten">
+        Provinsi Banten adalah sebuah provinsi di pulau Jawa, Indonesia. Provinsi ini adalah provinsi paling barat di Jawa.
+        Provinsi ini pernah menjadi bagian dari provinsi Jawa Barat, tetapi provinsi ini menjadi wilayah pemekaran sejak tahun 2000,
+        dengan keputusan Undang-Undang Nomor 23 Tahun 2000.</string>
+    <string name="bantennama1">
+        Pondok Pesantren Al-Mubarok Serang adalah sebuah pesantren yang berada di jalan KH. Abdul Latif nomor 07 Cimuncang Sumur Pecung,
+        Kabupaten Serang, provinsi Banten, Indonesia.Kurikulum yang digunakan mengacu pada Kurikulum Nasional dengan Muatan Lokal
+        disesuaikan dengan Kurikulum Pondok Pesantren Modern Al-Mubarok.</string>
+    <string name="bantennama2">
+        Pondok Pesantren Daar el-Qolam adalah sebuah pondok pesantren berlokasi di Desa Pasir Gintung, Kecamatan Jayanti,
+        Kabupaten Tangerang, Provinsi Banten yang didirikan pada tanggal 20 Januari 1968. Pesantren ini adalah gagasan Haji Qasad Mansyur
+        yang direalisasikan oleh Drs. K.H. Ahmad Rifai Arief(1942-1997). Setelah K.H. Ahmad Rifa\'i Arief meninggal dunia pada tanggal 15 Juni 1997,
+        pondok ini dilanjutkan oleh K.H. Drs. Ahmad Syahiduddin, K.H. Adrian Mafatihullah Karimdan Hj. Enah Huwaenah.</string>
+    <string name="bantennama3">
+        Pondok Pesantren Riyadhussholihiin dibangun di atas pondasi TAQWA dengan Asas Al-Qur\'an dan Sunnah,
+        berupaya mengembalikan masyarakat islam kepada jalan Islam yang sesungguhnya yang datang dari Allah dan Rosul-Nya serta berupaya mendidik
+        dan membekali kader dakwah dengan Aqidah Sholihah, Ibadah, Adab dan Akhlak dan Mu’amalah berdasarkan Al-Qur’an dan Sunnah dengan Manhaj Salafus Sholeh, Ahlus Sunnah wal Jama’ah.</string>
+    <string name="bantennama4">
+        Pesantren ini didirikan oleh Drs. K.H. Ahmad Rifa\'i Arief (Almarhum) yang bertindak juga sebagai pemimpin pesantren Daar el-Qolam (Pasir Gintung, Jayanti, Tangerang) saat itu.
+        Kini, setelah pendiri wafat, Pesantren La Tansa dipimpin oleh K.H. Adrian Mafatihullah Karim, MA dan Dr. K.H. Sholeh, S.Ag, MM.
+        Lembaga ini bernaung di bawah Yayasan La Tansa Mashiro, yang juga didirikan oleh Drs K.H. Ahmad Rifa\'i Arief.</string>
+
+    <!-- Lampung -->
+    <string name="lampung">
+        Lampung adalah sebuah provinsi paling selatan di pulau Sumatra, Indonesia, dengan ibu kota atau pusat pemerintahan
+        berada di kota Bandar Lampung. Provinsi ini memiliki dua kota yaitu kota Bandar Lampung dan kota Metro serta 13 kabupaten.</string>
+    <string name="lampungnama1">
+        Pondok pesantren Al Hikmah merupakan salah satu pondok terbaik yang ada di Provinsi Lampung.
+        Santri yang ada di Pondok pesantren Al Hikmah ini memang sangat banyak dan selain itu juga Pondok pesantren Al Hikmah ini memiliki bangunan yang sangat megah.
+        Selain itu pembelajaran yang dilakukan di Pondok pesantren Al Hikmah merupakan salah satu pembelajaran yang berkualitas bahkan Pondok pesantren Al Hikmah ini sering kali melakukan pertemuan dengan para alumni yang ada di Pondok pesantren Lirboyo yang ada di Jawa Timur.</string>
+    <string name="lampungnama2">
+        Pondok pesantren Darussa’adah adalah salah satu pondok pesantren yang sudah tidak asing lagi.
+        Karena Pondok pesantren Darussa’adah ini ada di Lampung dan juga apa di Pulau Jawa dan selain itu juga ada di wilayah yang lainnya.
+        Namun saat ini yang akan di ceritakan adalah pondok pesantren yangberada di Lampung.
+        Pondok pesantren Darussa’adah ini berdiri pada tahun 2001. Pondok pesantren Darussa’adah ini telah membuat wacana bahwa seluruh santri yang ingin menimba ilmu di pondok pesantren ini akan gratis masalah pembayaran dan lain – lainnya.</string>
+    <string name="lampungnama3">
+        Pondok pesantren Darul Hikmah adalah salah satu yang sering disebut sebagai pesantren Mahasiswa.
+        Karena Pondok pesantren Darul Hikmah ini adalah salah satu pondok pesantren yang paling banyak santri mahasiswanya.
+        Pondok pesantren Darul Hikmah ini terletak di Jalan Sultan Jamil Nomor 29, Kelurahan Gedung Meneng, Kecamatan Rajabasa, Lampung.</string>
+    <string name="lampungnama4">
+        Pondok pesantren Darul Fatah adalah salah satu pondok pesantren yang terletak tidak jauh dari pondok pesantren
+        Darul Hikmah yaitu di jalan Kopi No. 23 A, kelurahan Gedung Meneng, Kecamatan Rajabasa, Kota Bandar Lampung.
+        Pondok pesantren Darul Fatah ini terdapat jenjang pendidikan mulai dari pendidikan SMP sampai dengan pergurun tinggi. Kualitas pengjaran yang ada di Pondok pesantren Darul Fatah juga sudah tidak perlu di ragukan lagi.</string>
+
+    <!-- Sumsel -->
+    <string name="sumsel">
+        Sumatra Selatan adalah provinsi di Indonesia yang terletak di bagian Selatan pulau Sumatra.
+        Ibu kota Sumatra Selatan berada di kota Palembang, dan pada tahun 2020 penduduk provinsi ini berjumlah 8.467.432 jiwa</string>
+    <string name="sumselnama1">
+        Pondok pesantren pertama yang akan dibahas adalah pondok pesantren Miftahul Jannah yang teletak
+        di Jl. Putri Candi, Dusun VII, Peninjauan, Kabupaten Ogan Komering Ulu, Sumatera Selatan.
+        Ponpes ini memiiki program utama berupa Tahfidz Quran, Kitab kuning, dan Tahsinul Quran. Sistem pembelajaran di pondok pesantren Kabupaten Ogan Komering Ulu ini menggunakan sistem pembelajaran kasilak, bandungan, sorongan, dan setoran (muraja’ah).</string>
+    <string name="sumselnama2">
+        Pondok pesantren selanjutnya ialah pondok pesantren Al Falah yang terletak di Dusun II Desa Karangrejo,
+        Desa Putak, Gelumbang, Muara Enim, Sumatera Selatan. Ponpes yang berdiri pada tahun 2006 ini
+        saat ini sudah mendirikan berbagai jenjang pendidikan, diantaranya Madrasah Ibtidaiyah (MI),
+        Madrasah Tsanawiyah (MTs), dan Madrasah Aliyah (MA). Dengan memadukan dua kurikulum pendidikan yaitu kurikulum pendidikan formal dan kurikulum pendidikan klasik (salafiyah)</string>
+    <string name="sumselnama3">
+        Pondok pesantren Nurul Huda terletak di Jl. Kota Baru, Sukaraja, Buay Madang, Kabupaten Ogan Komering Ulu Timur, Sumatera Selatan.
+        Dengan jumlah penerimaan santri yang terbatas, calon santri harus mengikuti ujian seleksi. Pondok pesantren di Kabupaten Ogan Komering
+        Ulu Timur ini menyediakan dua program pendidikan formal, yaitu SMP dan SMA terpadu yang sudah terakreditasi B. kurikulum yang digunakan berupa kurikulum nasional dan kurikulum pesantren.</string>
+    <string name="sumselnama4">
+        Ponpes selanjutnya ialah pondok pesantren Al Islah yang beralamat di  Jl. Talang Jering, Talang Buluh, Kec. Talang Klp.,
+        Kabupaten Banyu Asin, Sumatera Selatan. Ponpes ini membuak tiga program pendidikan yaitu Madrasah Ibtidaiyah,
+        Madrasah Tsanawiyah, dan Madrasah Aliyah. Berbeda dengan ponpes Nurul Huda, pondok pesantren di Kabupaten Banyuasin tidak memberlakukan tes masuk untuk calon santri. Penerimaan santri ditentukan oleh nilai ijazah.</string>
+
+    <!-- Bali -->
+    <string name="bali">
+        Bali adalah sebuah provinsi di Indonesia yang ibu kotanya bernama Denpasar.
+        Bali juga merupakan salah satu pulau di Kepulauan Nusa Tenggara.</string>
+    <string name="balinama1">
+        Pondok Pesantren Hidayatullah yang beralamat di Jl.Raya Pemogan Gang Taman 20 X Denpasar.
+        Pesantren ini diketahui sudah memiliki santri yang jumlahnya ada sekitar 200 orang.
+        Sedangkan tenaga pendidiknya yaitu ada 14 ustadz</string>
+    <string name="balinama2">
+        Pondok Pesantren Al - Ma`ruf yang beralamat di Jl. Angsoka Cargo Permai I No.12. Jumlah santri yang
+        menuntut ilmu di ponpes Al-Ma’ruf jumlahnya yaitu ada sekitar 129 santri. Sedangkan jumlah guru yang
+        mengajar ada sekitar 9 orang</string>
+    <string name="balinama3">
+        Pondok Pesantren Pp. Kh. Mas Manshur beralamat di Jl. Tukad Pule 7A Banjar Tengah.
+        Jumlah santri yang ada di ponpes ini yaitu ada sekitar 30 orang dengan 6 ustadz yang mengajar.</string>
+    <string name="balinama4">
+        Pondok Pesantren Pp. Darun Najah yang beralamat di Kampung Islam Kepaon.
+        Pesantren ini diketahui memiliki 55 santri dengan 6 ustadz yang mengajar.</string>
+
+    <!-- Madura -->
+    <string name="madura">
+        Madura adalah nama pulau yang terletak di sebelah timur laut Jawa Timur. Pulau Madura besarnya kurang
+        lebih 5.168 km², dengan penduduk hampir 4 juta jiwa. Jembatan Nasional Suramadu merupakan pintu masuk
+        utama menuju Madura, selain itu untuk menuju pulau ini bisa dilalui dari jalur laut ataupun melaluijalur udara.</string>
+    <string name="maduranama1">
+        pondok pesantren Darul Ulum yang sistem pendidikan dan modelnya hampir sama dengan pondok pesantren
+        Sidogiri. Pesantren yang satu ini termasuk pondok pesantren salaf, tradisional, klasik yang ditandai
+        dengan adanya metode belajar penguasaan nahwu dan pengkajian kitab kuning. Pondok pesantren Darul Ulum
+        juga termasuk pesantren yang usianya sudah sangat tua karena didirikan sejak tahun 1718.</string>
+    <string name="maduranama2">
+        pondok pesantren As Shomadiyah, yang lebih dikenal sebagai pesantren tahfidz quran. Jenjang pendidikan
+        di pondok pesantren As Shomadiyah yaitu mulai dari TK, Pesantren SD, Pesantren SMP, hingga Pesantren
+        SMA atau setara dengan Madrasah Aliyah.</string>
+    <string name="maduranama3">
+        pesantren Miftahul Ulum Bettet yang didirikan pada tahun 1912 oleh Almarhum RKH. Sirojuddin.
+        Santri yang belajar di pondok pesantren ini mendapatkan bekal pendidikan seperti Nahwu, Fiqih,
+        Sorrof, Salaf, dan lain -ain.</string>
+    <string name="maduranama4">
+        pondok pesantren Mambaul Ulum yang berada di kabupaten Pamekasan, Jawa Timur. Pesantren ini
+        disebut sebagai ponpes rujukan penentuan tokoh-tokoh politik besar yang ada di Indonesia salah
+        satunya ialah Sandiaga Uno.Pola pendidikan yang dilaksanakan dalam pesantren di Pamekasan, khususnya
+        Mambaul Ulum yaitu model sistem formal. </string>
+</resources>

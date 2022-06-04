@@ -1,0 +1,250 @@
+<resources>
+    <string name="app_name">Islamic boarding school list</string>
+
+    <!-- Menu Nav-->
+    <string name="action_language">Setting language</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_exit">Exit</string>
+    <string name="textView_Menu_Nama">Yusuf Aryo W</string>
+    <string name="textView_Menu_NIM">34 2018 0029</string>
+    <string name="textView_Menu_Email">aryoyusuf313@gmail.com</string>
+    <string name="circleImageView_Menu_Foto">Foto</string>
+
+    <!-- Main Act -->
+    <string name="imageView_Main_Banner">Banner</string>
+
+    <!-- Temp RecycleView -->
+    <string name="circleImageView_Main_temp_Logo">Temp Icon</string>
+    <string name="textView_Main_temp_Prov">province</string>
+    <string name="textView_Main_temp_Nama">Cottage Name</string>
+
+    <!-- Detail Act -->
+    <string name="circleImageView_Detail_Logo">Detail Logo</string>
+    <string name="textView_Detail_Gambar_Pondok">Islamic boarding school</string>
+    <string name="textView_Detail_Rincian_Prov">Details</string>
+    <string name="textView_Detail_Desc_Prov">Description</string>
+    <string name="Desc">XXXXXXX</string>
+    <string name="Nama">000000</string>
+
+    <!-- String Java-->
+    <string name="confirm">Confirm</string>
+
+    <!-- jatim -->
+    <string name="jatim">
+        East Java is a province in the eastern part of the island of Java, Indonesia.
+        The capital city of East Java is the city of Surabaya. Its area is 47,803.49 km²,
+        with a population of 40,665,696 people and a population density of 851 people/km².</string>
+    <string name="jatimnama1">
+        Al-Amin Islamic Boarding School is an Islamic Boarding School in the form of a formal educational institution
+        oriented to excellence and cadre with the vision of amaliyah science,
+        Charity Scientific and Akhlaqul Karimah, based on the teachings of Islam Ahlus Sunnah Wal Jama\'ah.</string>
+    <string name="jatimnama2">
+        Al Falah Islamic Boarding School started at Madrasah Islamiyah Salafiyah Riyadlotul Uqul (MISRIU)
+        with two levels, Ibtidiyah and Tsanawiyah. At the Ibtida\'iyah level taken for 3 years,
+        more prioritized in fostering students morals (morality and mentality), developing children\'s social insight</string>
+    <string name="jatimnama3">
+        The Gontor Islamic Boarding School was established on April 10, 1926 in Ponorogo, East Java.
+        This cottage was founded by three sons of KH Santoso Anom Besari, namely KH Ahmad Sahal,
+        KH Zainudin Fananie and KH Imam Zarkasy who later became known as Trimurti. </string>
+    <string name="jatimnama4">
+        Lirboyo Islamic Boarding School was founded in 1910, precisely in Mojoroto District, Kediri City, East Java.
+        Kiai Sholeh who comes from Banjarmelati Village, initiated the establishment of this pesantren which later
+        continued by one of his son-in-law KH Abdul Karim. </string>
+
+    <!-- jateng -->
+    <string name="jateng">
+        Central Java is an Indonesian province located in the central part of the island of Java.
+        The capital city is Semarang. This province is bordered by West Java Province in the west,
+        The Indian Ocean and the Special Region of Yogyakarta in the south, East Java in the east, and the Java Sea in the north</string>
+    <string name="jatengnama1">
+        As-Salafy Al-Asror Islamic Boarding School has a mission to produce Muslim cadres who are faithful, pious, and have commendable character.
+        mastering science and technology. As-Salafy Al-Asror Islamic Boarding School is one of the big Islamic boarding schools in Semarang.
+        This cottage stands firmly on Jl. Kauman No. 1 003/002, Patemon, Gunung Pati, Semarang City, Central Java.</string>
+    <string name="jatengnama2">
+        This Bugen Al-Itiqon Islamic Boarding School teaches the yellow books and naqsbandiyyah Sufism.
+        This Islamic boarding school also has a fairly complete educational institution unit. Among other things are Madrasah Diniyyah Salafiyyah,
+        Madrasah Diniyyah Al-Wasathoniyyah, Ma\'had Tafsir, and many more.</string>
+    <string name="jatengnama3">
+        The Salafiyyah Al-Munawir Islamic Boarding School is a fairly large religious institution.
+         This cottage stands firmly on waqf land of 1,500 m2. The cottage taught by KH. Abdullah Munawir
+         it is located on Jl. KH. Munawir 13, Gemah Raya, Pedurungan Lor, Pedurungan District, Semarang City, Central Java.</string>
+    <string name="jatengnama4">
+        Askhabul Kahf Islamic Boarding School is an Islamic institution that has a blend of the salaf (classical) and modern systems.
+        This cottage stands firmly in Mijen District, Semarang City. The full address is Jl. Raya Cangkring-Mount Pati, Polaman,
+        Mijen District, Semarang City, Central Java. Askhabul Kahfi Islamic Boarding School was established in 2009 and has approximately 3,000 active students.
+        people, both sons and daughters. All of these students come from various regions/cities in Indonesia, both on the island of Java and from outside Java.</string>
+
+    <!-- DIY -->
+    <string name="diy">
+        The Special Region of Yogyakarta is a Special Region at the provincial level in Indonesia which is a
+        the fusion of the Sultanate of Yogyakarta and the Duchy of Paku Alaman. Special Region of Yogyakarta
+        located in the southern part of the island of Java, and is bordered by the provinces of Central Java and the Indian Ocean.</string>
+    <string name="diynama1">
+        This Islamic boarding school in Jogja has the real name Al Munawwir. This boarding school is also one of the cottages
+         who can be said to be elders in Indonesia. No wonder, many alumni from Islamic boarding schools
+         in Jogja, which eventually established various other best Islamic boarding schools in various parts of Indonesia.</string>
+    <string name="diynama2">
+        One of the Islamic boarding schools in Jogja is located at Jalan Cuwiri no. 123, Jogokariyan. Prince Diponegoro Islamic Boarding School
+         is a salafiyah Islamic boarding school combined with formal education. Apart from being a place for students
+         for school-age children from junior high and high school, this Islamic boarding school in Jogja also provides a place for students who have the status of students or go to college.</string>
+    <string name="diynama3">
+        Al Barokah Islamic boarding school already has facilities to combine formal education and of course
+        study religious knowledge. This boarding school has an address in Blunyahrejo, Tegalrejo. Led by
+        KH. Rosim Al Fatih, Lc., Al Barokah Islamic Boarding School now has 100 students consisting of male and female students.</string>
+    <string name="diynama4">
+        This Islamic boarding school is located on Jalan Veteran UH, Umbulharjo, Al Khairaat Islamic Boarding School is one of the
+        pesantren which is quite well known in the city of Yogyakarta. Just like other pesantren, apart from studying
+        religious knowledge, your little one will also have education levels ranging from elementary, junior high, high school to college.</string>
+
+    <!-- jabar -->
+    <string name="jabar">
+        West Java Province is a province in Indonesia, the capital city is Bandung.
+        In 2020 the population of West Java province is 48,274,162 people, with a density of 1,365 people/km².</string>
+    <string name="jabarnama1">
+        This Islamic boarding school is located on Jl. Raya Cipacing No. 22 Jatinagor, Sumedang, West Java.
+        One of the highlights of this cottage is the acceleration program at the junior high school level.
+        This Islamic boarding school in Sumedang also opens a scholarship program. This Islamic boarding school provides four levels of education, namely Munggangg Kindergarten, Al Maksoem Elementary School, Al Maksoem Middle School, and Al Maksome High School.</string>
+    <string name="jabarnama2">
+        Al Ikhlas Islamic Boarding School is located in Puhun, RT 14 RW 04, Kuningan, Kec. Kuningan, Kuningan Regency, West Java.
+        This Islamic boarding school implements a modern learning system with a mu\'alimin pattern as well as higher education.
+        The curriculum applied in the Islamic boarding school in Kuningan Regency is in the form of KMI Pondok Modern Darussalam Gontor and the curriculum developed by PP Modern Al Ikhlas.</string>
+    <string name="jabarnama3">
+        This Islamic boarding school is located in Sukabumi, West Java. Established in 2012 and inaugurated in 2014,
+         Currently, the level of education provided by this Islamic boarding school has been accredited A.
+         In addition to using Arabic, this Islamic boarding school in Sukabumi also teaches students to learn English and Japanese, and there is even a special extracurricular Japanese debate..</string>
+    <string name="jabarnama4">
+        Islamic boarding school in West Java The first to be discussed is PP Darul Muttaqien which is located at Jl. Jkt - Bogor No. KM. 41,
+         Jabon Mekar, Kec. Parung, Bogor, West Java. This Islamic boarding school has been established since 1988. The available educational levels are:
+         TMI, Integrated Islamic Middle School, Integrated Islamic Elementary School, Raudhatul Athfal, Quran Education Park, and Diniyah Takmiliyah.</string>
+
+    <!-- DKI -->
+    <string name="dki">
+        Jakarta, or officially the Special Capital Region of Jakarta is the capital city and the largest city in Indonesia.
+         Jakarta is the only city in Indonesia that has a provincial-level status. Jakarta is located on the northwest coast of Java Island.</string>
+    <string name="dkinama1">
+        This Islamic boarding school originated from the Ta\'lim Council which is spread across West Jakarta and its surroundings.
+        Finally, it was inaugurated as an educational institution under the name Pondok Pesantren Al-Isyraq on December 6, 2009.
+        Al-Isyraq Islamic Boarding School is a good choice of education for children because the learning is adapted to Islamic teachings.</string>
+    <string name="dkinama2">
+        This Islamic boarding school is located on Jl. Length No. 6C, North Kedoya, Kebon Jeruk, West Jakarta.
+        With the aim of educating children who have akhlaqul karimah, master general science and religion,
+        and able to speak Arabic and English. Organize educational programs starting at the early level, namely MD, MI, MTs, SMP, MA, and SMA that have been accredited A.</string>
+    <string name="dkinama3">
+        Daarul Rahman Islamic Boarding School uses an integrated education system, which is a combination of existing systems in
+        Gontor Ponorogo Modern Islamic Boarding School with 2 languages as its characteristics and the Salafiyah Islamic Boarding School system which
+        teaches the yellow books. Currently, Daarul Rahman has 3 branches of Islamic boarding schools.</string>
+    <string name="dkinama4">
+        Luhur Al-Tsaqafah Islamic Boarding School is one of the academic educational institutions based on religious teaching in Jakarta.
+        Providing educational options for Madrasah Tsanawiyah and Madrasah Aliyah or the equivalent of SMP to SMA. With educational facilities,
+        such as school buildings, mosques, dormitories, and others that are qualified to support children\'s learning activities.</string>
+
+    <!-- Banten -->
+    <string name="banten">
+        Banten Province is a province on the island of Java, Indonesia. This province is the westernmost province in Java.
+        This province was once part of the province of West Java, but this province has been a division area since 2000.
+        with the decision of Law Number 23 of 2000.</string>
+    <string name="bantennama1">
+        Pondok Pesantren Al-Mubarok Serang is a boarding school located on Jalan KH. Abdul Latif number 07 Cimuncang Sumur Pecung,
+        Serang Regency, Banten province, Indonesia. The curriculum used refers to the National Curriculum with Local Content
+        adapted to the Al-Mubarok Modern Islamic Boarding School Curriculum.</string>
+    <string name="bantennama2">
+        Daar el-Qolam Islamic Boarding School is a boarding school located in Pasir Gintung Village, Jayanti District,
+        Tangerang Regency, Banten Province which was founded on January 20, 1968. This Islamic boarding school was the idea of Haji Qasad Mansyur
+        realized by Drs. K.H. Ahmad Rifai Arief (1942-1997). After K.H. Ahmad Rifa\'i Arief died on June 15, 1997,
+        This cottage was continued by K.H. Drs. Ahmad Syahiduddin, K.H. Adrian Mafatihullah Karim and Hj. Oh, Huwaenah.</string>
+    <string name="bantennama3">
+        The Riyadhussholihiin Islamic Boarding School was built on the foundation of TAQWA with the principles of the Qur\'an and Sunnah,
+        seeks to return the Islamic community to the true way of Islam which comes from Allah and His Messenger and seeks to educate
+        and equip da\'wah cadres with Aqidah Sholihah, Worship, Adab and Morals and Mu\'amalah based on the Qur\'an and Sunnah with Manhaj Salafus Sholeh, Ahlus Sunnah wal Jama\'ah.</string>
+    <string name="bantennama4">
+        This boarding school was founded by Drs. K.H. Ahmad Rifa\'i Arief (deceased) who also acted as the leader of the Daar el-Qolam Islamic boarding school (Pasir Gintung, Jayanti, Tangerang) at that time.
+        Now, after the founder died, the La Tansa Islamic Boarding School is led by K.H. Adrian Mafatihullah Karim, MA and Dr. K.H. Sholeh, S.Ag, MM.
+        This institution is under the auspices of the La Tansa Mashiro Foundation, which was also founded by Drs K.H. Ahmad Rifa\'i Arief.</string>
+
+    <!-- Lampung -->
+    <string name="lampung">
+        Lampung is the southernmost province on the island of Sumatra, Indonesia, with a capital city or administrative center
+        located in the city of Bandar Lampung. This province has two cities, namely the city of Bandar Lampung and the city of Metro as well as 13 districts.</string>
+    <string name="lampungnama1">
+        Al Hikmah Islamic Boarding School is one of the best Islamic boarding schools in Lampung Province.
+        There are indeed many students at the Al Hikmah Islamic Boarding School and besides that, the Al Hikmah Islamic Boarding School has a very magnificent building.
+        In addition, the learning carried out at the Al Hikmah Islamic Boarding School is one of the quality learning even the Al Hikmah Islamic Boarding School often holds meetings with alumni at the Lirboyo Islamic Boarding School in East Java.</string>
+    <string name="lampungnama2">
+        Darussa\'adah Islamic Boarding School is one of the most familiar Islamic boarding schools.
+        Because this Darussa\'adah Islamic boarding school is in Lampung and also on the island of Java and besides that it is also in other areas.
+        But at this time what will be told is a boarding school in Lampung.
+        This Darussa\'adah Islamic boarding school was founded in 2001. This Darussa\'adah Islamic boarding school has created a discourse that all students who want to study at this Islamic boarding school will be free of payment problems and others.</string>
+    <string name="lampungnama3">
+        Darul Hikmah Islamic boarding school is one that is often referred to as a student boarding school.
+         Because this Darul Hikmah Islamic boarding school is one of the Islamic boarding schools that has the most students.
+         This Darul Hikmah Islamic boarding school is located at Jalan Sultan Jamil No. 29, Gedung Meneng Village, Rajabasa District, Lampung.</string>
+    <string name="lampungnama4">
+        Darul Fatah Islamic boarding school is one of the Islamic boarding schools located not far from the Islamic boarding school
+         Darul Hikmah which is on Jalan Kopi No. 23 A, Gedung Meneng sub-district, Rajabasa district, Bandar Lampung city.
+         This Darul Fatah Islamic boarding school has educational levels ranging from junior high school education to tertiary education. The quality of teaching in Darul Fatah Islamic Boarding School is also no longer in doubt.</string>
+
+    <!-- Sumsel -->
+    <string name="sumsel">
+        South Sumatra is a province in Indonesia located in the southern part of the island of Sumatra.
+        The capital city of South Sumatra is the city of Palembang, and in 2020 the province\'s population is 8,467,432 people</string>
+    <string name="sumselnama1">
+        The first Islamic boarding school that will be discussed is the Miftahul Jannah Islamic Boarding School, which is teletaked
+        on Jl. Putri Candi, Hamlet VII, Peninjauan, Ogan Komering Ulu Regency, South Sumatra.
+        This Islamic boarding school has main programs in the form of Tahfidz Quran, Kitab kuning, and Tahsinul Quran. The learning system at the Islamic boarding school in Ogan Komering Ulu Regency uses a kasilak, bandungan, sorongan, and deposit (muraja\'ah) learning system.</string>
+    <string name="sumselnama2">
+        The next Islamic boarding school is the Al Falah Islamic Boarding School which is located in Hamlet II, Karangrejo Village,
+        Putak Village, Gelumbang, Muara Enim, South Sumatra. This Islamic Boarding School which was established in 2006
+        currently has established various levels of education, including Madrasah Ibtidaiyah (MI),
+        Madrasah Tsanawiyah (MTs), and Madrasah Aliyah (MA). By combining two educational curricula, namely the formal education curriculum and the classical education curriculum (salafiyah).</string>
+    <string name="sumselnama3">
+        The Nurul Huda Islamic Boarding School is located on Jl. Kota Baru, Sukaraja, Buay Madang, Ogan Komering Ulu Timur Regency, South Sumatra.
+        With a limited number of student admissions, prospective students must take a selection exam. Islamic boarding school in Ogan Komering Regency
+        East Ulu provides two formal education programs, namely integrated junior and senior high schools that have been accredited B. The curriculum used is the national curriculum and the pesantren curriculum.</string>
+    <string name="sumselnama4">
+        The next Islamic boarding school is the Al Islah Islamic Boarding School which is located at Jl. Talang Jering, Talang Reed, Kec. Talang Klp.,
+        Banyu Asin Regency, South Sumatra. This Islamic boarding school has opened three educational programs, namely Madrasah Ibtidaiyah,
+        Madrasah Tsanawiyah, and Madrasah Aliyah. Unlike the Nurul Huda Islamic Boarding School, Islamic boarding schools in Banyuasin Regency do not apply entrance tests for prospective students. Acceptance of students is determined by the value of the diploma.</string>
+
+    <!-- Bali -->
+    <string name="bali">
+        Bali is a province in Indonesia whose capital city is Denpasar.
+        Bali is also one of the islands in the Nusa Tenggara Archipelago.</string>
+    <string name="balinama1">
+        Hidayatullah Islamic Boarding School which is located at Jl. Raya Pemogan Gang Taman 20 X Denpasar.
+        This Islamic boarding school is known to already have about 200 students.
+        While the teaching staff are 14 ustadz</string>
+    <string name="balinama2">
+        Al - Ma\'ruf Islamic Boarding School which is located at Jl. Angsoka Cargo Permai I No.12. The number of students who
+        The number of students studying at Al-Ma\'ruf Islamic Boarding School is around 129 students. While the number of teachers who
+        teaching there are about 9 people</string>
+    <string name="balinama3">
+        Islamic Boarding School Pp. Kh. Mas Manshur\'s address is at Jl. Tukad Pule 7A Central Banjar.
+        The number of students in this Islamic boarding school is about 30 people with 6 ustadz teaching.</string>
+    <string name="balinama4">
+        Islamic Boarding School Pp. Darun Najah whose address is at Kepaon Islamic Village.
+         This Islamic boarding school is known to have 55 students with 6 ustadz teaching.</string>
+
+    <!-- Madura -->
+    <string name="madura">
+        Madura is the name of an island located in the northeast of East Java. Madura Island is not big enough
+        over 5,168 km², with a population of almost 4 million people. Suramadu National Bridge is the entrance
+        The main route to Madura, in addition to getting to this island can be passed by sea or by air.</string>
+    <string name="maduranama1">
+        Darul Ulum Islamic boarding school whose education system and model is almost the same as Islamic boarding school
+        Sidogiri. This one Islamic boarding school is a salaf, traditional, classic Islamic boarding school which is marked
+        with the method of learning mastery of nahwu and the study of the yellow book. Darul Ulum Islamic Boarding School
+        also includes pesantren which are very old because they were founded in 1718.</string>
+    <string name="maduranama2">
+        As Shomadiyah Islamic Boarding School, which is better known as the Tahfidz Qur\'anic Islamic Boarding School. Educational stage
+        at the As Shomadiyah Islamic boarding school, starting from kindergarten, elementary school, junior high school, to Islamic boarding school
+        SMA or equivalent to Madrasah Aliyah.</string>
+    <string name="maduranama3">
+        Miftahul Ulum Bettet Islamic Boarding School which was founded in 1912 by the late RKH. Sirojuddin.
+        Santri who study at this Islamic boarding school get educational provisions such as Nahwu, Fiqh,
+        Sorrof, Salaf, and others.</string>
+    <string name="maduranama4">
+        Mambaul Ulum Islamic Boarding School in Pamekasan Regency, East Java. This Islamic Boarding School
+        referred to as a reference boarding school for the determination of major political figures in Indonesia is wrong
+        one is Sandiaga Uno. The pattern of education carried out in Islamic boarding schools in Pamekasan, in particular
+        Mambaul Ulum is a formal system model. </string>
+</resources>

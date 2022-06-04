@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="@dimen/horizontal_margin_0"
+    android:layout_marginTop="@dimen/vertical_margin_0"
+    android:layout_marginEnd="@dimen/horizontal_margin_0"
+    android:layout_marginBottom="@dimen/vertical_margin_0"
+    tools:context=".ProfileActivity">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView_Profil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/horizontal_margin_16"
+        android:layout_marginTop="@dimen/vertical_margin_64"
+        android:layout_marginEnd="@dimen/horizontal_margin_16"
+        app:cardCornerRadius="5dp"
+        app:cardElevation="8dp"
+        app:contentPadding="@dimen/horizontal_margin_16"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_Profil"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:orientation="vertical">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/circleImageView_Menu_Foto"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:contentDescription="@string/circleImageView_Menu_Foto"
+                android:src="@drawable/foto"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="ImageContrastCheck" />
+
+            <TextView
+                android:id="@+id/textView_Menu_Nama"
+                style="@style/TV_Header"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/vertical_margin_8"
+                android:text="@string/textView_Menu_Nama"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView_Menu_NIM"
+                style="@style/TV_Sub_Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textView_Menu_NIM"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/textView_Menu_Email"
+                style="@style/TV_Sub_Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/textView_Menu_Email"
+                android:textAlignment="center" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

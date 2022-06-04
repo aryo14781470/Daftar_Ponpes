@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginStart="@dimen/horizontal_margin_0"
+    android:layout_marginTop="@dimen/vertical_margin_0"
+    android:layout_marginEnd="@dimen/horizontal_margin_0"
+    android:layout_marginBottom="@dimen/vertical_margin_0"
+    tools:context=".DetailActivity">
+
+    <ScrollView
+        android:id="@+id/ScrollView_Detail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <LinearLayout
+            android:id="@+id/LinearLayout_Detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/CardView_Deatil_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/horizontal_margin_16"
+                android:layout_marginTop="@dimen/vertical_margin_8"
+                android:layout_marginEnd="@dimen/horizontal_margin_16"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="8dp"
+                app:contentPadding="@dimen/horizontal_margin_8"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/horizontal_margin_0"
+                    android:layout_marginTop="@dimen/vertical_margin_0"
+                    android:layout_marginEnd="@dimen/horizontal_margin_0"
+                    android:layout_marginBottom="@dimen/vertical_margin_0">
+
+                    <ImageView
+                        android:id="@+id/circleImageView_Detail_Logo"
+                        android:layout_width="125dp"
+                        android:layout_height="220dp"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:contentDescription="@string/circleImageView_Detail_Logo"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/foto"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent"
+                        tools:ignore="ImageContrastCheck" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_NProv"
+                        style="@style/TV_Header"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:text="@string/Nama"
+                        android:textAlignment="textStart"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/circleImageView_Detail_Logo"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_NPonS"
+                        style="@style/TV_Title"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_0"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:text="@string/Desc"
+                        android:textAlignment="textStart"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/circleImageView_Detail_Logo"
+                        app:layout_constraintTop_toBottomOf="@+id/textView_Detail_NProv" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Nama1"
+                        style="@style/TV_Sub_Title"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:text="@string/Nama"
+                        android:textAlignment="textStart"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/circleImageView_Detail_Logo"
+                        app:layout_constraintTop_toBottomOf="@+id/textView_Detail_NPonS" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Desc1"
+                        style="@style/TV_Desc"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_0"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:text="@string/Desc"
+                        android:textAlignment="textStart"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/circleImageView_Detail_Logo"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Nama1"/>
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Nama2"
+                        style="@style/TV_Sub_Title"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:text="@string/Nama"
+                        android:textAlignment="textStart"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/circleImageView_Detail_Logo"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Desc1"
+                        app:layout_goneMarginEnd="@dimen/horizontal_margin_8" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Desc2"
+                        style="@style/TV_Desc"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_0"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:text="@string/Desc"
+                        android:textAlignment="textStart"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/circleImageView_Detail_Logo"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Nama2" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Nama3"
+                        style="@style/TV_Sub_Title"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:text="@string/Nama"
+                        android:textAlignment="textStart"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/circleImageView_Detail_Logo"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Desc2" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Desc3"
+                        style="@style/TV_Desc"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_0"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:text="@string/Desc"
+                        android:textAlignment="textStart"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/circleImageView_Detail_Logo"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Nama3" />
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/CardView_Deatil_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/horizontal_margin_16"
+                android:layout_marginTop="@dimen/vertical_margin_8"
+                android:layout_marginEnd="@dimen/horizontal_margin_16"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="8dp"
+                app:contentPadding="@dimen/horizontal_margin_8"
+                app:layout_constraintTop_toBottomOf="@id/CardView_Deatil_1"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/horizontal_margin_0"
+                    android:layout_marginTop="@dimen/vertical_margin_0"
+                    android:layout_marginEnd="@dimen/horizontal_margin_0"
+                    android:layout_marginBottom="@dimen/vertical_margin_0">
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Gambar_Pondok"
+                        style="@style/TV_Header"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:text="@string/textView_Detail_Gambar_Pondok"
+                        android:textAlignment="textStart"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <ImageView
+                        android:id="@+id/ImageView_Detail_Gambar1"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:contentDescription="@string/circleImageView_Detail_Logo"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/foto"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Gambar_Pondok"
+                        tools:ignore="ImageContrastCheck" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Nama11"
+                        style="@style/TV_Sub_Title"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:layout_marginBottom="@dimen/vertical_margin_8"
+                        android:text="@string/Desc"
+                        android:textAlignment="textStart"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toStartOf="@id/textView_Detail_Nama22"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/ImageView_Detail_Gambar1" />
+
+                    <ImageView
+                        android:id="@+id/ImageView_Detail_Gambar2"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:contentDescription="@string/circleImageView_Detail_Logo"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/foto"
+                        app:layout_constraintEnd_toStartOf="@id/ImageView_Detail_Gambar3"
+                        app:layout_constraintStart_toEndOf="@id/ImageView_Detail_Gambar1"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Gambar_Pondok"
+                        tools:ignore="ImageContrastCheck" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Nama22"
+                        style="@style/TV_Sub_Title"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:layout_marginBottom="@dimen/vertical_margin_8"
+                        android:text="@string/Desc"
+                        android:textAlignment="center"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toStartOf="@id/textView_Detail_Nama33"
+                        app:layout_constraintStart_toEndOf="@id/textView_Detail_Nama11"
+                        app:layout_constraintTop_toBottomOf="@+id/ImageView_Detail_Gambar2" />
+
+                    <ImageView
+                        android:id="@+id/ImageView_Detail_Gambar3"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:contentDescription="@string/circleImageView_Detail_Logo"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/foto"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Gambar_Pondok"
+                        tools:ignore="ImageContrastCheck" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Nama33"
+                        style="@style/TV_Sub_Title"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:layout_marginBottom="@dimen/vertical_margin_8"
+                        android:text="@string/Desc"
+                        android:textAlignment="textEnd"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/textView_Detail_Nama22"
+                        app:layout_constraintTop_toBottomOf="@id/ImageView_Detail_Gambar3" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/CardView_Deatil_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/horizontal_margin_16"
+                android:layout_marginTop="@dimen/vertical_margin_8"
+                android:layout_marginEnd="@dimen/horizontal_margin_16"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="8dp"
+                app:contentPadding="@dimen/horizontal_margin_8"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/CardView_Deatil_2">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/horizontal_margin_0"
+                    android:layout_marginTop="@dimen/vertical_margin_0"
+                    android:layout_marginEnd="@dimen/horizontal_margin_0"
+                    android:layout_marginBottom="@dimen/vertical_margin_0">
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Rincian_Prov"
+                        style="@style/TV_Header"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:text="@string/textView_Detail_Rincian_Prov"
+                        android:textAlignment="textStart"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Desc_Prov"
+                        style="@style/TV_Desc"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginBottom="@dimen/vertical_margin_8"
+                        android:text="@string/textView_Detail_Desc_Prov"
+                        android:textAlignment="textStart"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Rincian_Prov" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/CardView_Deatil_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/horizontal_margin_16"
+                android:layout_marginTop="@dimen/vertical_margin_8"
+                android:layout_marginEnd="@dimen/horizontal_margin_16"
+                android:layout_marginBottom="@dimen/vertical_margin_8"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="8dp"
+                app:contentPadding="@dimen/horizontal_margin_8"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/CardView_Deatil_3">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/horizontal_margin_0"
+                    android:layout_marginTop="@dimen/vertical_margin_0"
+                    android:layout_marginEnd="@dimen/horizontal_margin_0"
+                    android:layout_marginBottom="@dimen/vertical_margin_0">
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Nama4"
+                        style="@style/TV_Header"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:text="@string/Nama"
+                        android:textAlignment="textStart"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="parent" />
+
+                    <ImageView
+                        android:id="@+id/ImageView_Detail_Gambar4"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginBottom="@dimen/vertical_margin_8"
+                        android:contentDescription="@string/circleImageView_Detail_Logo"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/foto"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@id/textView_Detail_Nama4"
+                        tools:ignore="ImageContrastCheck" />
+
+                    <TextView
+                        android:id="@+id/textView_Detail_Desc4"
+                        style="@style/TV_Desc"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/horizontal_margin_8"
+                        android:layout_marginTop="@dimen/vertical_margin_8"
+                        android:layout_marginEnd="@dimen/horizontal_margin_8"
+                        android:text="@string/Desc"
+                        android:textAlignment="textStart"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintStart_toEndOf="@id/ImageView_Detail_Gambar4"
+                        app:layout_constraintTop_toBottomOf="@+id/textView_Detail_Nama4" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
